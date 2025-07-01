@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhanzhan Cheng / Post Doc"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "chengzhanzhan/chengzhanzhan.github.io" #"academicpag
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.png"
   name             : "Zhanzhan Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdocter at Zhejiang University & Senior Algorithm Director at Ezviz"
   location         : "Shanghai"
   employer         : "Zhejiang University"
   uri              : # URL
@@ -217,7 +217,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false #true
     permalink: /:collection/:path/
   publications:
     output: true
