@@ -1,5 +1,5 @@
 ---
-title: 'CSIG 2022 Competition on Invoice Recognition and Analysis'
+title: 'Host the CSIG 2022 Competition on Invoice Recognition and Analysis'
 date: 2022-04-11
 permalink: /competitions/2022/invoice/comp/
 tags:
