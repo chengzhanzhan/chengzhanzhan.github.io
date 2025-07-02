@@ -1,5 +1,5 @@
 ---
-title: 'ICCV 2021 Workshop SSLAD'
+title: 'ICCV 2021 Competitions on Workshop SSLAD'
 date: 2021-10-04
 permalink: /competitions/2021/sslad/comp/
 tags:

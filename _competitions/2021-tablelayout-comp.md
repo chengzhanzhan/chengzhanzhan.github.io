@@ -13,7 +13,7 @@ This competition aims to advance the research in recognizing the layout of unstr
 
 We have won the 1st place out of 80 teams in this timed challenge!
 ![ICDAR 2021 SLP A](/images/icdarslpa.png "ICDAR 2021 SLP A")
-Details in [here]().
+Details in [here](https://aieval.draco.res.ibm.com/challenge/41/overview).
 
 Task B
 ------
@@ -21,4 +21,4 @@ Participants of this competition need to develop a model that can convert images
 
 We have won the 1st place out of 30 teams in this timed challenge!
 ![ICDAR 2021 SLP B](/images/icdarslpb.png "ICDAR 2021 SLP B")
-Details in [here]().
+Details in [here](https://aieval.draco.res.ibm.com/challenge/40/overview).
