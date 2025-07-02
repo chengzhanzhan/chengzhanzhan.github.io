@@ -1,11 +1,16 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'ICDAR2017 Robust Reading Challenge on COCO-Text'
+date: 2017-03-13
+permalink: /competitions/2017/textrecog/comp/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - ICDAR
+  - text recognition
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is a challenge on scene text detection and recognition, based on the largest scene text dataset currently available, based on real (as opposed to synthetic) scene imagery: the COCO-Text dataset. It is structured around three tasks: Text Localization, Cropped Word Recognition and End-To-End Recognition.
+
+Cropped Word Recognition, where the locations (bounding boxes) of words in the image are assumed to be known and the corresponding text transcriptions are sought.
+
+![ICDAR 2017 Word Recognition](/images/icdar2017.png "ICDAR 2017 Word Recognition")
+
+Details in [here](https://rrc.cvc.uab.es/?ch=5).
