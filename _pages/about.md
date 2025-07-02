@@ -15,12 +15,12 @@ redirect_from:
 About me
 ------
 I'm Zhanzhan Cheng. 
--- Postdoctor of Zhejiang University
--- Head of Algorithm Department at Ezviz Co., Ltd
--- The Founding Director of [DAVAR-Lab](https://davar-lab.github.io)
--- Led numerous competitions and winning championships
--- Over 40 papers were published,  my Google Scholar is [here](https://scholar.google.com/citations?user=YrafmOUAAAAJ)
--- Applied for more than 50 national patents, of which more than 30 have been authorized
+- Postdoctor of Zhejiang University
+- Head of Algorithm Department at Ezviz Co., Ltd
+- The Founding Director of [DAVAR-Lab](https://davar-lab.github.io)
+- Led numerous competitions and winning championships
+- Over 40 papers were published,  my Google Scholar is [here](https://scholar.google.com/citations?user=YrafmOUAAAAJ)
+- Applied for more than 50 national patents, of which more than 30 have been authorized
 
 My team is dedicated to advancing the frontiers of multimodal large models with learning-based techniques, exploring innovative approaches to integrate diverse data modalities such as text, images, audio, and video. These models are further deployed in real-world industries like intelligent assistants, multimedia understanding, and creative content generation.
 
