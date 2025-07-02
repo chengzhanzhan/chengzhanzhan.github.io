@@ -27,7 +27,7 @@ main:
   #   url: /year-archive/
     
   - title: "Competitions"
-    url: /year-archive/
+    url: /competitions/
 
   - title: "CV"
     url: /cv/
