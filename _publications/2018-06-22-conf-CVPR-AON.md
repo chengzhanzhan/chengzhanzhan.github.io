@@ -2,9 +2,9 @@
 title: "PAON: Towards Arbitrarily-Oriented Text Recognition"
 collection: publications
 category: conferences
-permalink: /publication/2018-conf-CVPR-AON
+permalink: /publication/2018-06-22-conf-CVPR-AON
 excerpt: 'Zhanzhan Cheng, Xuyang Liu, Fan Bai, Yi Niu, Shiliang Pu, Shuigeng Zhou'
-date: 2018
+date: 2018-06-22
 venue: 'CVPR'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf'

@@ -2,9 +2,9 @@
 title: "Focusing Attention: Towards Accurate tText Recognition in Natural Images"
 collection: publications
 category: conferences
-permalink: /publication/2017-conf-ICCV-FAN
+permalink: /publication/2017-10-22-conf-ICCV-FAN
 excerpt: 'Zhanzhan Cheng, Fan Bai, Yunlu Xu, Gang Zheng, Shiliang Pu, Shuigeng Zhou'
-date: 2017
+date: 2017-10-22
 venue: 'ICCV'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf'
