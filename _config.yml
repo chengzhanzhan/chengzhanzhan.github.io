@@ -82,9 +82,11 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Unpublish'    
   conferences:
     title: 'Conference Papers'
+  journal:
+    title: 'Journal Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -292,8 +294,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      #share: true
+      #comments: true
   # _portfolio
   - scope:
       path: ""
@@ -310,7 +312,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      #share: true
 
 
 # Sass/SCSS
