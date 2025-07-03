@@ -20,15 +20,20 @@ I'm Zhanzhan Cheng.
 - Over 40 papers were published,  see [Google Scholar](https://scholar.google.com/citations?user=YrafmOUAAAAJ)
 - Applied for more than 50 national patents, of which more than 30 have been authorized
 
+<p style="text-align: justify; text-justify: inter-word;">
 My team is dedicated to advancing the frontiers of multimodal large models with learning-based techniques, exploring innovative approaches to integrate diverse data modalities such as text, images, audio, and video. These models are further deployed in real-world industries like intelligent assistants, multimedia understanding, and creative content generation.
+</p>
 
+<p style="text-align: justify; text-justify: inter-word;">
 
 Focusing area
 ------
 - **Computer Vision**: Multimodal visual analysis, document analysis and recognition, and 3D vision
 - **Machine Learning**: Reinforcement learning，semi-supervised learning, incremental learning, and active learning
-- **Intelligence System**: Embodied intelligence, video analysis system, achieved significant industrial implementation in this field
+- **Intelligence System**: Embodied intelligence, video analysis system, achieved significant industrial implementations
+</p>
 
+<p style="text-align: justify; text-justify: inter-word;">
 
 Internships
 ------
@@ -36,6 +41,7 @@ I'm actively seeking highly motivated and talented students to join my research 
 
 Please send your resume, academic transcripts, a brief statement of your research interests, and any relevant projects or publications to me. 
 
+</p>
 <!--
 Research Area
 ======
