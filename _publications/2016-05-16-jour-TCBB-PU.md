@@ -5,7 +5,7 @@ category: journal
 permalink: /publication/2016-05-16-jour-TCBB-PU
 excerpt: 'Zhanzhan Cheng, Shuigeng Zhou, Yang Wang, Hui Liu, Jihong Guan, Yi-Ping Phoebe Chen'
 date: 2016-05-16
-venue: 'IEEE/ACM TCBB'
+venue: 'TCBB'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7471459'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

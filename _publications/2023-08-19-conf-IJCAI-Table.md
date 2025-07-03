@@ -7,7 +7,7 @@ excerpt: 'Huawen Shen, Xiang Gao, Jin Wei, Liang Qiao, Yu Zhou, Qiang Li, Zhanzh
 date: 2023-08-19
 venue: 'IJCAI'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://www.researchgate.net/profile/Xiang_Gao54/publication/373077707_Divide_Rows_and_Conquer_Cells_Towards_Structure_Recognition_for_Large_Tables/links/66ac5e5651aa0775f263cf87/Divide-Rows-and-Conquer-Cells-Towards-Structure-Recognition-for-Large-Tables.pdff'
+paperurl: 'https://www.researchgate.net/profile/Xiang_Gao54/publication/373077707_Divide_Rows_and_Conquer_Cells_Towards_Structure_Recognition_for_Large_Tables/links/66ac5e5651aa0775f263cf87/Divide-Rows-and-Conquer-Cells-Towards-Structure-Recognition-for-Large-Tables.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
